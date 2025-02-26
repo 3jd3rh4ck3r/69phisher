@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Akshay-Arjun/69phisher">
+  <a href="https://github.com/3jd3rh4ck3r/69phisher">
     <img src="./logo.png" alt="Logo" >
   </a>
 
