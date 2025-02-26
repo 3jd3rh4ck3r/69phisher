@@ -42,32 +42,7 @@ Add Browser in the browser mode. Learn more about BITB attack https://www.makeus
 
 
 
-### Installation
 
-##### Just, Clone this repository -
-```sh
-$ git clone https://github.com/3jd3rh4ck3r/69phisher.git
-<div align="center">
-  <a href="https://github.com/3jd3rh4ck3r/69phisher">
-    <img src="./logo.png" alt="Logo" >
-  </a>
-
-<h2 align="center">69phisher</h2>
-
-  <p><i>A beginners friendly, Automated phishing tool with 30+ templates.</i></p>
-  <p align="center">
-    <a href="https://github.com/3jd3rh4ck3r/69phisher/issues/new?assignees=&labels=bug&title=Report Bug">Report Bug</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/3jd3rh4ck3r/69phisher/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
-  </p>
-  <a href="https://github.com/3jd3rh4ck3r/69phisher/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/3jd3rh4ck3r/69phisher">
-  <a href="https://github.com/3jd3rh4ck3r/69phisher/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/3jd3rh4ck3r/69phisher"></a>
-
-  <a href="https://github.com/3jd3rh4ck3r/69phisher/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/3jd3rh4ck3r/69phisher"></a>
-  <a href="https://github.com/3jd3rh4ck3r/69phisher/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/3jd3rh4ck3r/69phisher"></a>
-  <br/>
-</div>
-<br />
 
 
 ### To do :
